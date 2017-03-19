@@ -5,9 +5,11 @@ img, video, audio, iframe, table, form {
   max-width: 100%; /* FF, Safari, Chrome */
 
 }
-  /*Layout styles */ 
+  /*Layout styles */
 
 .row {
   margin-bottom: 20px;
 }
-    
+
+
+  
